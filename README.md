@@ -1,3 +1,3 @@
 # Magic-8-Ball
-## The Body Mass Index (BMI) Calculator can be used to calculate BMI value and corresponding weight status
+## It's a funny 8 ball where you ask it something you are hesitant to do and the ball will tell you to do it or not to do it.
 
